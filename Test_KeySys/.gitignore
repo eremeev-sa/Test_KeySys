@@ -1,0 +1,19 @@
+# Папки и файлы, которые нужно игнорировать
+.vscode/
+*.csproj
+*.sln
+bin/
+obj/
+*.user
+*.cache
+*.log
+*.tmp
+*.bak
+Thumbs.db
+
+# Файлы сборки и отладки
+[Dd]ebug/
+[Rr]elease/
+
+# Файлы сборки для разных платформ
+Platform/
